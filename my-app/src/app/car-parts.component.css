@@ -1,0 +1,39 @@
+button, input {
+  background: #47494c;
+  color: #eee;
+}
+.card input {
+  width: 41px;
+  text-align: center;
+}
+.card {
+  color: #eee;
+  background: #676f6d;
+}
+.featured {
+  background: #57595D;
+  -webkit-border-image: -webkit-linear-gradient(right, #818fd8 0%, #cbb4e2 50%, #a6f2f5 100%);
+  -o-border-image: linear-gradient(to left, #818fd8 0%, #cbb4e2 50%, #a6f2f5 100%);
+  border-image: linear-gradient(to left, #818fd8 0%, #cbb4e2 50%, #a6f2f5 100%);
+  border-image-slice: 1;
+}
+.description {
+  color: #ddd;
+  font-size: small
+}
+.price {
+  font-weight: bold;
+}
+.photo {
+  float: left;
+}
+.photo img {
+  width: 120px
+}
+
+.product-info {
+  margin-left: 130px
+}
+.product-info table {
+  width: 100%;
+}

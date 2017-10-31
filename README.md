@@ -2,4 +2,12 @@
 
 ### [Tutorial: CodeSchool-AcceleratingThroughAngular2](https://github.com/WispProxy/Code-School-Slides/tree/master/Slides/JavaScript/Client-side%20Frameworks)
 
-To be continued from: Slide 13
+Setup:
+http://go.codeschool.com/angular2start
+https://nodejs.org/dist/v6.9.5/node-v6.9.5-x64.msi
+node -v: v6.9.5
+npm -v: 5.5.1
+npm install -g @angular/cli
+ng new my-app
+cd my-app
+ng serve --open
